@@ -1,0 +1,6 @@
+{
+  "name": "agent-ura-generador-de-contrasenas-segur-morjbvxs",
+  "version": "1.0.0",
+  "description": "Proyecto de Ura [Gen5]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
